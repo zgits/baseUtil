@@ -1,0 +1,2 @@
+这是一个SSM框架的基础配置，里面加入了redis的相关操作。
+以及json相关操作和md5加密部分。还包括了分页插件、mybatis-generator插件
